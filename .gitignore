@@ -1,0 +1,5 @@
+papers/
+.DS_Store
+__MACOSX/
+~$*
+.ipynb_checkpoints/
